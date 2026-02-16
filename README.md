@@ -12,7 +12,7 @@
 I'm an aspiring **MERN Full Stack Developer** with strong interest in both frontend and backend technologies.  
 I enjoy building interactive and user-friendly web applications using modern frameworks and clean coding practices.
 
-🎯 Currently improving my skills in **ReactJS**, **NodeJS**, and **Modern Web technologies** 
+🎯 Currently improving my skills in **ReactJS**, **NodeJS**, and  **Modern web technologies** 
 💡 open to entry-level opportunities, real-world projects, contribute to open-source, and grow as a professional developer.
 
 ---
