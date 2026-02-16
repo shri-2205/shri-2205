@@ -67,8 +67,6 @@ I enjoy building interactive and user-friendly web applications using modern fra
     real-time score tracking using database integration.
 - **Tech Stack**: Python, Tkinter, MySQL
 
----
-
 ### 🏥 Medical Inventory Management System
 
 - **Description:** Built a web-based inventory system to manage medicines, including
@@ -83,7 +81,10 @@ I enjoy building interactive and user-friendly web applications using modern fra
 - 💻 [GitHub](https://github.com/shri-2205)
 - 📧 Email: [shripriyaa2005@gmail.com](mailto:shripriyaa2005@gmail.com)
 
+---
 
+⭐ "Think. Code. Solve. Grow."
+💬 “Every line of code is a step toward mastery.”
 
-
+---
 
