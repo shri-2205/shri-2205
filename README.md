@@ -1,16 +1,45 @@
-## Hi there 👋
+ # 👋 Hi, I'm Shri Priyaa S!
+ --- 
+🚀 **MERN Full Stack Developer** | 💻 **Web Developer**
+🌱 Passionate about building dynamic and scalable web applications  
+🔥 Focused on creating responsive and user-friendly web experiences  
+---
+## 🧠 About Me
+---
+I'm an aspiring MERN Full Stack Developer with strong interest in both frontend and backend technologies.  
+I enjoy building interactive and user-friendly web applications using modern frameworks and clean coding practices.
 
-<!--
-**shri-2205/shri-2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Currently improving my skills in ReactJS, NodeJS, and modern web technologies  
+💡 open to entry-level opportunities, real-world projects, contribute to open-source, and grow as a professional developer.
+---
 
-Here are some ideas to get you started:
+🧩 Tech Stack
+---
+### 🌐 Frontend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  HTML5, CSS, JavaScript 
+*  Bootstrap, ReactJS
+
+### ⚙️ Backend Development
+
+* Node.js, Express.js
+* RESTful API Development
+  
+### 🗃️ Database 
+
+* MySQL, MongoDB
+
+### 💻 Programming Fundamentals
+
+- Core Python
+- Problem Solving & Logic Building
+
+### 🛠️ Tools & Platforms
+
+- Git | GitHub | VS Code | Postman
+- npm | Django Admin | MongoDB Compass
+---
+
+  
+
+
