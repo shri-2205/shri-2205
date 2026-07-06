@@ -47,6 +47,11 @@ I enjoy building interactive and user-friendly web applications using modern fra
 
 ## 💼 Internships 
 
+### 🏢 Zaalima Development Pvt Ltd
+- **Role:** Web Development Intern
+- **Description:** Developed MERN stack-based web applications and gained hands-on experience in frontend-backend integration.
+- **Tools:** React.js, Node.js, Express.js, MongoDB, Git, GitHub
+
 ### 🏢 Databels Solutions Pvt Ltd
 
 - **Role**: Advanced Java Intern
